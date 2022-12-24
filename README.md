@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danieel32
+- 👋 Hi, I’m daniel
 - 👀 I’m interested in coding sites
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on projects
